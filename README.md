@@ -135,4 +135,4 @@ git push origin master
 yarn deploy
 ```
 
-Your website shoud be available at `YOUR_GITHUB_ACCOUNT.github.io/react-giphy`
+Website shoud be available at https://vshinji.github.io/gif-list/
